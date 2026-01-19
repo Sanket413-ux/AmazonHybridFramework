@@ -1,0 +1,128 @@
+2026-01-16 14:41:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e3060d8: 7 ms
+2026-01-16 14:41:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@426b6a74: 0 ms
+2026-01-16 14:42:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\csank\OneDrive\Desktop\AutomationWorkspace\AmazonHybridFramework\master.xml
+
+2026-01-16 16:06:28 INFO  testCases.TC002_SignInPageTest - ***** Verifying Logo available on SignIn Page *****
+2026-01-16 16:06:59 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text from SignIn Page ****
+2026-01-16 16:07:05 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text Box ****
+2026-01-16 16:07:17 INFO  testCases.TC002_SignInPageTest - **** Verifying Continue Button ****
+2026-01-16 16:07:23 INFO  testCases.TC002_SignInPageTest - **** Verifying By Continuing you agree to amazons Text from SignIn Page ****
+2026-01-16 16:07:29 INFO  testCases.TC002_SignInPageTest - **** Verifying Conditions of use link from sign in page ****
+2026-01-16 16:07:37 INFO  testCases.TC002_SignInPageTest - **** Verifying Privacy Notice Link from SignIn Page ****
+2026-01-16 16:07:44 INFO  testCases.TC002_SignInPageTest - **** Verifying Buying for work Text from SignIn Page ****
+2026-01-16 16:07:50 INFO  testCases.TC002_SignInPageTest - **** Verifying Free business account link from SignIn Page ****
+2026-01-16 16:07:58 INFO  testCases.TC002_SignInPageTest - **** Verifying Help Link from SignIn Page ****
+2026-01-17 14:45:48 INFO  testCases.TC002_SignInPageTest - ***** Verifying Logo available on SignIn Page *****
+2026-01-17 14:46:18 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text from SignIn Page ****
+2026-01-17 14:46:23 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text Box ****
+2026-01-17 14:46:35 INFO  testCases.TC002_SignInPageTest - **** Verifying Continue Button ****
+2026-01-17 14:46:42 INFO  testCases.TC002_SignInPageTest - **** Verifying By Continuing you agree to amazons Text from SignIn Page ****
+2026-01-17 14:46:48 INFO  testCases.TC002_SignInPageTest - **** Verifying Conditions of use link from sign in page ****
+2026-01-17 14:46:57 INFO  testCases.TC002_SignInPageTest - **** Verifying Privacy Notice Link from SignIn Page ****
+2026-01-17 14:47:07 INFO  testCases.TC002_SignInPageTest - **** Verifying Buying for work Text from SignIn Page ****
+2026-01-17 14:47:13 INFO  testCases.TC002_SignInPageTest - **** Verifying Free business account link from SignIn Page ****
+2026-01-17 14:47:22 INFO  testCases.TC002_SignInPageTest - **** Verifying Help Link from SignIn Page ****
+2026-01-17 14:52:11 INFO  testCases.TC002_SignInPageTest - ***** Verifying Logo available on SignIn Page *****
+2026-01-17 14:52:42 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text from SignIn Page ****
+2026-01-17 14:52:48 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text Box ****
+2026-01-17 14:53:01 INFO  testCases.TC002_SignInPageTest - **** Verifying Continue Button ****
+2026-01-17 14:53:08 INFO  testCases.TC002_SignInPageTest - **** Verifying By Continuing you agree to amazons Text from SignIn Page ****
+2026-01-17 14:53:14 INFO  testCases.TC002_SignInPageTest - **** Verifying Conditions of use link from sign in page ****
+2026-01-17 14:53:23 INFO  testCases.TC002_SignInPageTest - **** Verifying Privacy Notice Link from SignIn Page ****
+2026-01-17 14:53:32 INFO  testCases.TC002_SignInPageTest - **** Verifying Buying for work Text from SignIn Page ****
+2026-01-17 14:53:38 INFO  testCases.TC002_SignInPageTest - **** Verifying Free business account link from SignIn Page ****
+2026-01-17 14:53:47 INFO  testCases.TC002_SignInPageTest - **** Verifying Help Link from SignIn Page ****
+2026-01-17 15:06:29 INFO  testCases.TC002_SignInPageTest - ***** Verifying Logo available on SignIn Page *****
+2026-01-17 15:06:58 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text from SignIn Page ****
+2026-01-17 15:07:04 INFO  testCases.TC002_SignInPageTest - **** Verifying Enter Mobile Number or Email Text Box ****
+2026-01-17 15:07:16 INFO  testCases.TC002_SignInPageTest - **** Verifying Continue Button ****
+2026-01-17 15:07:22 INFO  testCases.TC002_SignInPageTest - **** Verifying By Continuing you agree to amazons Text from SignIn Page ****
+2026-01-17 15:07:28 INFO  testCases.TC002_SignInPageTest - **** Verifying Conditions of use link from sign in page ****
+2026-01-17 15:07:36 INFO  testCases.TC002_SignInPageTest - **** Verifying Privacy Notice Link from SignIn Page ****
+2026-01-17 15:07:45 INFO  testCases.TC002_SignInPageTest - **** Verifying Buying for work Text from SignIn Page ****
+2026-01-17 15:07:51 INFO  testCases.TC002_SignInPageTest - **** Verifying Free business account link from SignIn Page ****
+2026-01-17 15:08:00 INFO  testCases.TC002_SignInPageTest - **** Verifying Help Link from SignIn Page ****
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\csank\AppData\Local\Temp\testng-eclipse--1947625792\testng-customsuite.xml
+
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7a527389: 127 ms
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@56ace400: 19 ms
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f9a01c1: 22 ms
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56f6d40b: 23 ms
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e3060d8: 15 ms
+2026-01-18 16:20:38 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@293d0107: 0 ms
+2026-01-18 16:29:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\csank\OneDrive\Desktop\AutomationWorkspace\AmazonHybridFramework\master.xml
+
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\csank\AppData\Local\Temp\testng-eclipse--811158572\testng-customsuite.xml
+
+2026-01-18 16:36:18 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2026-01-18 16:36:19 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7a527389: 161 ms
+2026-01-18 16:36:19 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@56ace400: 18 ms
+2026-01-18 16:36:19 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f9a01c1: 16 ms
+2026-01-18 16:36:19 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56f6d40b: 17 ms
+2026-01-18 16:36:19 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e3060d8: 8 ms
+2026-01-18 16:36:19 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@293d0107: 0 ms

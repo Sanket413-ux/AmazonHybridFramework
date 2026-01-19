@@ -1,0 +1,25 @@
+<suite name="Master Suite">
+ <groups>
+  <run>
+    <include name="Sanity"></include>
+    <include name="Regression"></include>
+    <include name="Master"></include>
+  </run>
+ </groups>
+ 
+  <!--<listeners>
+   <listener class-name="utilities.ExtentReportManager"></listener>
+ </listeners>-->
+
+
+<test name="Test" thread-count="5">
+<parameter name="os" value="Windows"></parameter>
+<parameter name="browser" value="Chrome"></parameter>
+    <classes>
+      <class name="testCases.TC001_HomePageTests"/>
+      <class name="testCases.TC002_SignInPageTest"/>
+      <class name="testCases.TC003_ReturnAndOrderPageTest"></class>
+      <class name="testCases.TC004_ProductPageTest"></class>
+    </classes>
+ </test> <!-- Test -->
+</suite> <!-- Suite -->
